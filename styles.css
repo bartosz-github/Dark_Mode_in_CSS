@@ -21,5 +21,8 @@ body.dark {
     --primary-text-color: #FDFDFD;
     --title-panel-bg: #353D44;
     --snippet-panel-bg: #21262B;
+    --read-more-btn-bg: #F2F2F2;
+    --read-more-btn-color: #21262B;
     
+
 }
