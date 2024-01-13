@@ -17,3 +17,9 @@ body {
 
 }
 
+body.dark {
+    --primary-text-color: #FDFDFD;
+    --title-panel-bg: #353D44;
+    --snippet-panel-bg: #21262B;
+    
+}
