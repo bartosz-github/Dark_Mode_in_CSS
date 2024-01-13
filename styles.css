@@ -1,0 +1,19 @@
+body {
+    background-color: var(--primary-page-bg);
+    color: var(--primary-text-color);
+
+    /* variables */
+    /* global */
+    --primary-page-bg: #EAEBEB;
+    --accent-color: #F05656;
+
+    /* theme-based*/
+    --primary-text-color: #353D44;
+    --title-panel-bg: #F2F2F2;
+    --snipped-panel-bg: #FdFdFd;
+    --read-more-btn-bg: var(--primary-text-color);
+    --read-more-btn-color: var(--snippet-panel-bg);
+    --divider-bg: var(--title-panel-bg);
+
+}
+
